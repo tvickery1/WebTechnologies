@@ -1,0 +1,35 @@
+[24-Sep-2015 17:30:39 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/tvickery/public_html/cmpe2500/ica03/functions.php on line 14
+[24-Sep-2015 17:35:06 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/tvickery/public_html/cmpe2500/ica03/functions.php on line 8
+[24-Sep-2015 17:35:47 UTC] PHP Warning:  require_once(sentinel): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica03/index.php on line 5
+[24-Sep-2015 17:35:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'sentinel' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica03/index.php on line 5
+[24-Sep-2015 17:36:21 UTC] PHP Warning:  require_once(sentinel): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica03/index.php on line 4
+[24-Sep-2015 17:36:21 UTC] PHP Fatal error:  require_once(): Failed opening required 'sentinel' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica03/index.php on line 4
+[24-Sep-2015 17:37:18 UTC] PHP Warning:  require_once(sentinel): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica03/index.php on line 4
+[24-Sep-2015 17:37:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'sentinel' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica03/index.php on line 4
+[28-Sep-2015 15:59:33 UTC] PHP Warning:  Missing argument 1 for GenTable(), called in /home/tvickery/public_html/cmpe2500/ica04/settings.php on line 46 and defined in /home/tvickery/public_html/cmpe2500/ica04/functions.php on line 36
+[01-Oct-2015 17:22:44 UTC] PHP Fatal error:  Can't use function return value in write context in /home/tvickery/public_html/cmpe2500/ica04/functions.php on line 62
+[01-Oct-2015 17:22:53 UTC] PHP Fatal error:  Can't use function return value in write context in /home/tvickery/public_html/cmpe2500/ica04/functions.php on line 62
+[01-Oct-2015 17:22:54 UTC] PHP Fatal error:  Can't use function return value in write context in /home/tvickery/public_html/cmpe2500/ica04/functions.php on line 62
+[01-Oct-2015 17:22:55 UTC] PHP Fatal error:  Can't use function return value in write context in /home/tvickery/public_html/cmpe2500/ica04/functions.php on line 62
+[01-Oct-2015 17:39:40 UTC] PHP Fatal error:  Call to undefined function real_escape_string() in /home/tvickery/public_html/cmpe2500/ica04/settings.php on line 12
+[01-Oct-2015 17:41:38 UTC] PHP Fatal error:  Call to undefined function real_escape_string() in /home/tvickery/public_html/cmpe2500/ica04/functions.php on line 61
+[01-Oct-2015 17:42:37 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/tvickery/public_html/cmpe2500/ica04/functions.php on line 61
+[01-Oct-2015 17:44:14 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/tvickery/public_html/cmpe2500/ica04/functions.php on line 61
+[09-Oct-2015 00:02:21 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/tvickery/public_html/cmpe2500/ica05/index.php on line 10
+[09-Oct-2015 00:02:59 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/tvickery/public_html/cmpe2500/ica05/index.php on line 10
+[09-Oct-2015 00:06:37 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/tvickery/public_html/cmpe2500/ica05/index.php on line 10
+[09-Oct-2015 00:19:37 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/tvickery/public_html/cmpe2500/ica05/index.php on line 10
+[15-Oct-2015 14:26:42 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/tvickery/public_html/cmpe2500/ica05/index.php on line 10
+[15-Oct-2015 16:05:39 UTC] PHP Fatal error:  Cannot redeclare mysqliConnect() (previously declared in /home/tvickery/public_html/cmpe2500/ica05/db.php:15) in /home/tvickery/public_html/cmpe2500/ica05/inc/db.php on line 25
+[15-Oct-2015 16:48:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tvickery/public_html/cmpe2500/ica05/login.php:28) in /home/tvickery/public_html/cmpe2500/ica05/login.php on line 31
+[15-Oct-2015 16:53:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tvickery/public_html/cmpe2500/ica05/login.php:28) in /home/tvickery/public_html/cmpe2500/ica05/login.php on line 31
+[18-Oct-2015 19:07:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tvickery/public_html/cmpe2500/ica05/login.php:34) in /home/tvickery/public_html/cmpe2500/ica05/login.php on line 37
+[18-Oct-2015 19:09:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tvickery/public_html/cmpe2500/ica05/login.php:34) in /home/tvickery/public_html/cmpe2500/ica05/login.php on line 37
+[19-Oct-2015 14:23:52 UTC] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica05/functions.php on line 2
+[19-Oct-2015 14:23:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica05/functions.php on line 2
+[19-Oct-2015 14:24:13 UTC] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica05/functions.php on line 2
+[19-Oct-2015 14:24:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica05/functions.php on line 2
+[19-Oct-2015 14:24:15 UTC] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica05/functions.php on line 2
+[19-Oct-2015 14:24:15 UTC] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica05/functions.php on line 2
+[19-Oct-2015 14:24:16 UTC] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica05/functions.php on line 2
+[19-Oct-2015 14:24:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica05/functions.php on line 2

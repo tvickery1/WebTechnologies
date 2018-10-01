@@ -1,0 +1,7 @@
+[01-Oct-2015 15:13:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/tvickery/public_html/cmpe2500/LabExam01/first.php on line 58
+[01-Oct-2015 15:20:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/tvickery/public_html/cmpe2500/LabExam01/first.php on line 58
+[01-Oct-2015 15:47:40 UTC] PHP Fatal error:  Call to undefined function real_escape_string() in /home/tvickery/public_html/cmpe2500/LabExam01/first.php on line 111
+[01-Oct-2015 15:57:16 UTC] PHP Warning:  substr() expects parameter 1 to be string, array given in /home/tvickery/public_html/cmpe2500/LabExam01/first.php on line 64
+[01-Oct-2015 16:06:14 UTC] PHP Fatal error:  Call to undefined function show_array() in /home/tvickery/public_html/cmpe2500/LabExam01/first.php on line 71
+[01-Oct-2015 16:06:27 UTC] PHP Fatal error:  Call to undefined function show_array() in /home/tvickery/public_html/cmpe2500/LabExam01/first.php on line 71
+[01-Oct-2015 16:06:33 UTC] PHP Fatal error:  Call to undefined function show_array() in /home/tvickery/public_html/cmpe2500/LabExam01/first.php on line 71

@@ -1,0 +1,18 @@
+[11-Sep-2015 15:58:44 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tvickery/public_html/cmpe2500/ica01/form.php on line 6
+[11-Sep-2015 15:59:12 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tvickery/public_html/cmpe2500/ica01/form.php on line 6
+[11-Sep-2015 15:59:13 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tvickery/public_html/cmpe2500/ica01/form.php on line 6
+[11-Sep-2015 16:00:06 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tvickery/public_html/cmpe2500/ica01/form.php on line 5
+[11-Sep-2015 16:01:12 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tvickery/public_html/cmpe2500/ica01/form.php on line 5
+[11-Sep-2015 16:02:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tvickery/public_html/cmpe2500/ica01/util.php on line 16
+[11-Sep-2015 16:02:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tvickery/public_html/cmpe2500/ica01/util.php on line 16
+[14-Sep-2015 14:38:08 UTC] PHP Fatal error:  Call to undefined function ShowArray() in /home/tvickery/public_html/cmpe2500/ica01/ica01.php on line 29
+[14-Sep-2015 15:07:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tvickery/public_html/cmpe2500/ica01/ica01.php on line 48
+[14-Sep-2015 15:09:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/tvickery/public_html/cmpe2500/ica01/ica01.php on line 48
+[14-Sep-2015 15:20:18 UTC] PHP Warning:  require_once(util.php): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica01/ica01.php on line 3
+[14-Sep-2015 15:20:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'util.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica01/ica01.php on line 3
+[14-Sep-2015 15:21:05 UTC] PHP Warning:  require_once(..\util.php): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica01/ica01.php on line 3
+[14-Sep-2015 15:21:05 UTC] PHP Fatal error:  require_once(): Failed opening required '..\util.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica01/ica01.php on line 3
+[14-Sep-2015 15:21:20 UTC] PHP Warning:  require_once(..\..\util.php): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica01/ica01.php on line 3
+[14-Sep-2015 15:21:20 UTC] PHP Fatal error:  require_once(): Failed opening required '..\..\util.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica01/ica01.php on line 3
+[14-Sep-2015 15:24:55 UTC] PHP Parse error:  syntax error, unexpected 'entry' (T_STRING) in /home/tvickery/public_html/cmpe2500/ica01/ica01.php on line 31
+[14-Sep-2015 15:30:36 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/tvickery/public_html/cmpe2500/ica01/util.php on line 36

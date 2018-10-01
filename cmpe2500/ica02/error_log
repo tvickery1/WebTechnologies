@@ -1,0 +1,15 @@
+[24-Sep-2015 15:55:07 UTC] PHP Warning:  require_once(inc/db.php): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica02/login.php on line 5
+[24-Sep-2015 15:55:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'inc/db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica02/login.php on line 5
+[24-Sep-2015 16:33:13 UTC] PHP Warning:  require_once(sentinel): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica02/settings.php on line 3
+[24-Sep-2015 16:33:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'sentinel' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica02/settings.php on line 3
+[24-Sep-2015 16:35:08 UTC] PHP Warning:  require_once(sentinel): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica02/index.php on line 5
+[24-Sep-2015 16:35:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'sentinel' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica02/index.php on line 5
+[24-Sep-2015 16:36:29 UTC] PHP Warning:  require_once(..\sentinel.php): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica02/settings.php on line 3
+[24-Sep-2015 16:36:29 UTC] PHP Fatal error:  require_once(): Failed opening required '..\sentinel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica02/settings.php on line 3
+[24-Sep-2015 16:59:55 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/tvickery/public_html/cmpe2500/ica02/functions.php on line 14
+[24-Sep-2015 17:02:27 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/tvickery/public_html/cmpe2500/ica02/functions.php on line 14
+[24-Sep-2015 17:04:15 UTC] PHP Warning:  require_once(sentinel): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica02/index.php on line 5
+[24-Sep-2015 17:04:15 UTC] PHP Fatal error:  require_once(): Failed opening required 'sentinel' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica02/index.php on line 5
+[24-Sep-2015 17:07:53 UTC] PHP Warning:  require_once(sentinel): failed to open stream: No such file or directory in /home/tvickery/public_html/cmpe2500/ica02/index.php on line 5
+[24-Sep-2015 17:07:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'sentinel' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/tvickery/public_html/cmpe2500/ica02/index.php on line 5
+[24-Sep-2015 17:11:01 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/tvickery/public_html/cmpe2500/ica02/functions.php on line 14
